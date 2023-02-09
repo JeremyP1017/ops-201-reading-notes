@@ -1,0 +1,29 @@
+In IT, a big part of our job is solving problems.
+
+This first step is all about identifying information. You need to completely understand what the problem might be. And if 
+possible, you want to be able to duplicate the problem.
+
+Now we can go to our list. We’ll start at the top, and we’ll start testing the theories that we have that 
+might be causing this particular issue. We can then determine what the next steps might be to resolve the problem
+
+Once you successfully identify which one of your theories actually solves the problem, then it’s time to implement the solution.
+
+Once you’ve applied the fix, you still have to test and make sure that your fix actually solved the problem. You can test this
+yourself. And you may even want to consider bringing in your customer, because they’ll be the ultimate arbiter on whether this problem was really resolved.
+
+Now that the problem has been implemented, you’ve tested, and everything’s back to normal, it might be worthwhile to 
+create some preventative measures so that this problem doesn’t occur in the future.
+
+You create a plan of action on how you’re going to resolve this issue. You implement that plan. And then you test it and make
+sure that the system is performing exactly as expected. Once all of this is completed, you document the entire process you went through. And 
+now you can solve any problem that you’re faced with in an IT environment
+
+ALL above information was sourced from the article “How to Troubleshoot – CompTIA A+ 220-902 – 5.5”
+https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/
+
+I worked in manufacturing for a number of years so we always had a process or an order of operations, whether
+you're building something, troubleshooting, or fixing a previously diagnosed problem there's typically a well-documented 
+order of operations that helps you handle the problem in the most efficient way possible. The CompTIA Plus troubleshooting 
+breakdown follows the same methodology,  your identifying the problem, asking as many questions as you can from the user who 
+encountered the problem, once you've identified the problem then you implement a solution, once that solution has corrected 
+the problem and you've done all necessary testing then you move on to documentation.
