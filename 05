@@ -1,0 +1,9 @@
+The Server Message Block Protocol (SMB Protocol) is a client-server communication protocol used for sharing access to files, printers, serial 
+ports, and data on a network. It can also carry transaction protocols for authenticated inter-process communication.
+
+In short, the SMB protocol is a way for computers to talk to each other.
+
+Once connected, it enables users or applications to make requests to a file server and access resources like printer sharing, mail slots, and 
+named pipes on the remote server. This means a user of the application can open, read, move, create, and update files on the remote server.
+above info sourced from How Does the SMB Protocol Work?
+https://www.upguard.com/blog/smb-port
