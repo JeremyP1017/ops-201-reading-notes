@@ -1,0 +1,16 @@
+https://www.techthoughts.info/ps1-should-you-learn-powershell/
+
+Lets start with the obvious question. What is PowerShell? PowerShell is a command-line shell interface made by Microsoft that
+enables system administrators and power users to manage computers from the command line. PowerShell is also a scripting language, built in.
+
+PowerShell tasks are generally performed using cmdlets (pronounced command-lət) which can perform a wide variety of actions.
+
+https://www.theregister.com/2019/02/26/malware_ibm_powershell/
+
+IBM's X-Force, who found that in 2018 just 43 per cent of the attacks it analyzed utilized any sort of locally installed files. Rather, the
+hackers utilized PowerShell scripts to execute their dirty deeds in memory without significantly touching file systems, if at all.
+
+This finding is important because it is another reminder that admins can no longer solely rely on detecting malicious executables and similar data 
+on hard drives and other storage, to identify cyber-intrusions.
+
+This ia also a reminder that we cant just respond to attacks we need to be on the offensive and stop them before they happen.
