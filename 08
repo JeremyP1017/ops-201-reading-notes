@@ -1,0 +1,20 @@
+The Windows Registry is a database where Windows and many programs store their configuration settings. You can edit the registry yourself
+to enable hidden features and tweak specific options. These tweaks are often called “registry hacks.”
+
+
+The Windows registry is a collection of several databases. There are system-wide registry settings that apply to all users, and each Windows 
+user account also has its own user-specific settings.
+
+Microsoft introduced the registry back in Windows 3.1, but it was initially used only for certain types of software. In the Windows 3.1 era, Windows
+applications frequently stored settings in .INI configuration files that were scattered across the OS
+
+
+Editing the registry isn’t dangerous if you know what you’re doing. Just follow the instructions and only change the settings you’re instructed to change.
+But, if you go into the registry and start haphazardly deleting or changing things, you could mess up your system’s configuration—and potentially even render 
+Windows unbootabl 
+
+above info sourced from article
+ 
+In short the registry gives you access to several collections of databases that you may or may not need access to at any given point but the registry also 
+offers you the ability to make edits and create some cool registry hacks for yourself you can have a display message show up upon sign in you can stop other 
+accounts from shutting down your PC and the list goes on.e.
