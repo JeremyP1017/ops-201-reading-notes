@@ -1,0 +1,7 @@
+VeeamZIP delivers technology that lets you create backups of running VMs. With VeeamZIP, you have to specify only two things – the VM you
+want to backup and where your resulting backup file will go. It’s that easy! The backup will be deduplicated (within the single VM being backed up) and 
+compressed, resulting in significantly lower backup storage requirements.
+
+The ability to make backups for your virtual machines is incredibly important because at any given point if you're running a new code or trying to 
+automate certain tasks if something fails it could corrupt your VM so every so often having the ability to back up the current state of your VM in 
+the event of some catastrophic failure is always going to be much better than starting from scratch.
